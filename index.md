@@ -1,4 +1,4 @@
-_**designed for play**_™ is a one-person game studio.  i currently have one game (self-)published, with several more either in testing or in the idea stage.
+_**designed for play**_&trade; is a one-person game studio.  i currently have one game (self-)published, with several more either in testing or in the idea stage.
 
 [@designedforplay](https://twitter.com/designedforplay)
 [designedforplaygames@gmail.com](mailto:designedforplaygames@gmail.com)
