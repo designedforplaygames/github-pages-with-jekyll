@@ -1,5 +1,5 @@
 ---
-title: "Danny Amoeba&trade; at Paramecium High - playtest#1 results"
+title: "Danny Amoeba™ at Paramecium High - playtest#1 results"
 date: 2012-12-02
 ---
 First play-test of Danny Amoeba&trade; at Paramecium High went .. better than I expected.  A lot of changes are needed, but some of the core mechanics are good.
